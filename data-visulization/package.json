@@ -1,0 +1,19 @@
+{
+  "name": "data-visulization",
+  "version": "1.0.0",
+  "description": "KPL data",
+  "main": "webapp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/krishna.patel/data-visulization.git"
+  },
+  "author": "Krishna Kamal Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/krishna.patel/data-visulization/issues"
+  },
+  "homepage": "https://gitlab.com/krishna.patel/data-visulization#README"
+}

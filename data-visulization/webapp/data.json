@@ -1,0 +1,278 @@
+{
+    "district": [
+        "belgaum",
+        "chitradurga",
+        "koppal",
+        "bagalkot",
+        "yadgiri",
+        "kolar",
+        "raichur",
+        "bidar",
+        "gulbarga",
+        "bellary",
+        "chamrajnagar",
+        "chikballapur",
+        "bijapur",
+        "ramnagara",
+        "mysore",
+        "bangalore u south",
+        "bangalore u north",
+        "bangalore",
+        "dharwad",
+        "bangalore rural",
+        "gadag",
+        "shimoga"
+    ],
+    "densityofschool": {
+        "belgaum": 2,
+        "chitradurga": 1731,
+        "koppal": 991,
+        "bagalkot": 1349,
+        "yadgiri": 998,
+        "kolar": 1895,
+        "raichur": 1469,
+        "bidar": 1261,
+        "gulbarga": 1786,
+        "bellary": 1346,
+        "chamrajnagar": 842,
+        "chikballapur": 1618,
+        "bijapur": 1888,
+        "ramnagara": 1388,
+        "mysore": 156,
+        "bangalore u south": 995,
+        "bangalore u north": 590,
+        "bangalore": 12,
+        "dharwad": 806,
+        "bangalore rural": 324,
+        "gadag": 99,
+        "shimoga": 4
+    },
+    "category": {
+        "belgaum": {
+            "Upper Primary": 2
+        },
+        "chitradurga": {
+            "Upper Primary": 787,
+            "Lower Primary": 943,
+            "Model Primary": 1
+        },
+        "koppal": {
+            "Upper Primary": 549,
+            "Lower Primary": 434,
+            "Model Primary": 8
+        },
+        "bagalkot": {
+            "Upper Primary": 655,
+            "Lower Primary": 630,
+            "Secondary": 2,
+            "Model Primary": 62
+        },
+        "yadgiri": {
+            "Upper Primary": 445,
+            "Lower Primary": 547,
+            "Model Primary": 6
+        },
+        "kolar": {
+            "Upper Primary": 555,
+            "Lower Primary": 1340
+        },
+        "raichur": {
+            "Upper Primary": 717,
+            "Lower Primary": 740,
+            "Model Primary": 12
+        },
+        "bidar": {
+            "Upper Primary": 756,
+            "Lower Primary": 504,
+            "Model Primary": 1
+        },
+        "gulbarga": {
+            "Lower Primary": 793,
+            "Upper Primary": 992,
+            "Model Primary": 1
+        },
+        "bellary": {
+            "Upper Primary": 810,
+            "Lower Primary": 532,
+            "Model Primary": 4
+        },
+        "chamrajnagar": {
+            "Lower Primary": 461,
+            "Upper Primary": 379,
+            "Secondary": 2
+        },
+        "chikballapur": {
+            "Upper Primary": 422,
+            "Lower Primary": 1170,
+            "Model Primary": 26
+        },
+        "bijapur": {
+            "Upper Primary": 899,
+            "Lower Primary": 915,
+            "Model Primary": 73,
+            "Secondary": 1
+        },
+        "ramnagara": {
+            "Lower Primary": 966,
+            "Model Primary": 16,
+            "Upper Primary": 405,
+            "Secondary": 1
+        },
+        "mysore": {
+            "Upper Primary": 114,
+            "Lower Primary": 40,
+            "Model Primary": 2
+        },
+        "bangalore u south": {
+            "Lower Primary": 489,
+            "Upper Primary": 414,
+            "Model Primary": 92
+        },
+        "bangalore u north": {
+            "Lower Primary": 261,
+            "Upper Primary": 270,
+            "Model Primary": 59
+        },
+        "bangalore": {
+            "Lower Primary": 12
+        },
+        "dharwad": {
+            "Upper Primary": 521,
+            "Lower Primary": 251,
+            "Model Primary": 34
+        },
+        "bangalore rural": {
+            "Upper Primary": 122,
+            "Model Primary": 27,
+            "Lower Primary": 175
+        },
+        "gadag": {
+            "Upper Primary": 65,
+            "Lower Primary": 25,
+            "Model Primary": 9
+        },
+        "shimoga": {
+            "Upper Primary": 4
+        }
+    },
+    "mediumofinstruction": {
+        "belgaum": {
+            "kannada": 1,
+            "": 1
+        },
+        "chitradurga": {
+            "kannada": 1731
+        },
+        "koppal": {
+            "kannada": 913,
+            "urdu": 47,
+            "": 27,
+            "hindi": 1,
+            "telugu": 3
+        },
+        "bagalkot": {
+            "kannada": 1348,
+            "urdu": 1
+        },
+        "yadgiri": {
+            "kannada": 915,
+            "urdu": 83
+        },
+        "kolar": {
+            "kannada": 1895
+        },
+        "raichur": {
+            "kannada": 1367,
+            "urdu": 102
+        },
+        "bidar": {
+            "kannada": 836,
+            "urdu": 270,
+            "marathi": 153,
+            "hindi": 2
+        },
+        "gulbarga": {
+            "kannada": 1504,
+            "urdu": 264,
+            "telugu": 8,
+            "marathi": 10
+        },
+        "bellary": {
+            "kannada": 1217,
+            "urdu": 118,
+            "telugu": 10,
+            "marathi": 1
+        },
+        "chamrajnagar": {
+            "kannada": 842
+        },
+        "chikballapur": {
+            "kannada": 1618
+        },
+        "bijapur": {
+            "kannada": 1885,
+            "urdu": 3
+        },
+        "ramnagara": {
+            "kannada": 1381,
+            "urdu": 7
+        },
+        "mysore": {
+            "kannada": 137,
+            "urdu": 18,
+            "english": 1
+        },
+        "bangalore u south": {
+            "kannada": 891,
+            "urdu": 76,
+            "tamil": 12,
+            "telugu": 2,
+            "": 14
+        },
+        "bangalore u north": {
+            "kannada": 496,
+            "urdu": 62,
+            "tamil": 11,
+            "telugu": 5,
+            "english": 1,
+            "": 15
+        },
+        "bangalore": {
+            "kannada": 12
+        },
+        "dharwad": {
+            "kannada": 696,
+            "urdu": 106,
+            "marathi": 3,
+            "english": 1
+        },
+        "bangalore rural": {
+            "kannada": 294,
+            "urdu": 28,
+            "": 2
+        },
+        "gadag": {
+            "kannada": 96,
+            "": 3
+        },
+        "shimoga": {
+            "kannada": 4
+        }
+    },
+    "categoryname": [
+        "Upper Primary",
+        "Lower Primary",
+        "Secondary",
+        "Model Primary"
+    ],
+    "moiname": [
+        "kannada",
+        "urdu",
+        "tamil",
+        "telugu",
+        "english",
+        "other",
+        "marathi",
+        "hindi"
+    ]
+}
